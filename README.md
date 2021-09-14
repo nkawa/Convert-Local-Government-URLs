@@ -19,8 +19,9 @@ allCityID_URL = "https://www.soumu.go.jp/main_content/000730858.xlsx"
 
 をおこない、この２つを結合して allCityID.xlsx と allCityURL.csv を作成します。
 
+なお、getlgurl.py は、別のサイトからURL一覧を取得するプログラムです。
+（上記サイトが止まったときなど、補完的に利用するために残してあります）
 
 keywords:
  全自治体URL
  団体コード URL
- 
